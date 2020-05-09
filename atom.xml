@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://moodydoge.github.io</id>
     <title>MuddilyDoge</title>
-    <updated>2020-05-09T03:47:33.268Z</updated>
+    <updated>2020-05-09T04:26:37.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://moodydoge.github.io"/>
     <link rel="self" href="https://moodydoge.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://moodydoge.github.io/images/avatar.png</logo>
     <icon>https://moodydoge.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MuddilyDoge</rights>
+    <entry>
+        <title type="html"><![CDATA[平时在用的几个设计向网站……]]></title>
+        <id>https://moodydoge.github.io/post/ping-shi-zai-yong-de-ji-ge-she-ji-xiang-wang-zhan/</id>
+        <link href="https://moodydoge.github.io/post/ping-shi-zai-yong-de-ji-ge-she-ji-xiang-wang-zhan/">
+        </link>
+        <updated>2020-05-09T03:53:29.000Z</updated>
+        <content type="html"><![CDATA[<p><em>都是免费的哟</em></p>
+<p>1  Canva</p>
+<figure data-type="image" tabindex="1"><img src="https://moodydoge.github.io/post-images/1588997067878.jpg" alt="" loading="lazy"></figure>
+<p>网站上有非常多的模板，可以在网站上直接设计制作并导出，常用于制作海报，横幅等。里面的内容有免费可商用的，也有付费购买的，只需支付即可商用，duck不必担心版权纠纷等问题。</p>
+<p><img src="https://moodydoge.github.io/post-images/1588997616809.png" alt="" loading="lazy"><br>
+<img src="https://moodydoge.github.io/post-images/1588997635483.png" alt="" loading="lazy"><br>
+<em>（如图为使用该网站的设计成果）</em></p>
+<p>网址：https://www.canva.cn/</p>
+<p>2  Undraw</p>
+<figure data-type="image" tabindex="2"><img src="https://moodydoge.github.io/post-images/1588997429067.jpg" alt="" loading="lazy"></figure>
+<p>一个插画网站，里面有许多免费可商用插画，点击下载可保存为SVG或PNG格式，用途十分广泛。</p>
+<figure data-type="image" tabindex="3"><img src="https://moodydoge.github.io/post-images/1588997561276.jpg" alt="" loading="lazy"></figure>
+<p>如图，还可以调整插画的主体颜色，更能与您的设计统一风格。</p>
+<p>网址：https://undraw.co/</p>
+<p>3  图怪兽</p>
+<figure data-type="image" tabindex="4"><img src="https://moodydoge.github.io/post-images/1588997898447.jpg" alt="" loading="lazy"></figure>
+<p>一个类似于Canva的设计网站，功能同样也很强大，只是免费账户设计下载的次数可能会有限制</p>
+<p>网址：https://818ps.com/</p>
+<p>4  Pixabay</p>
+<figure data-type="image" tabindex="5"><img src="https://moodydoge.github.io/post-images/1588998263860.jpg" alt="" loading="lazy"></figure>
+<p>一个涵盖了超级多免费高清图片的网站，只需搜索关键词即可找到您想要的图片。</p>
+<figure data-type="image" tabindex="6"><img src="https://moodydoge.github.io/post-images/1588998273369.jpg" alt="" loading="lazy"></figure>
+<p>用户也可以自行上传摄影作品。</p>
+<p>网址：https://www.pexels.com/</p>
+<p>———————————<br>
+本文为我所创，侵权必究。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联系方式]]></title>
         <id>https://moodydoge.github.io/post/lian-xi-fang-shi/</id>
